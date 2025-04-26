@@ -1,7 +1,7 @@
 ![sau-white-logo](media/sau-white-logo.png)
 # South Asian University
 
-**[Mukund Prasad]**
+**Mukund Prasad**
 **Integrated Dual Degree BTech-MTech, CSE - Class of 2029**
 
 # Repository: JavaScript Implementations for Web Development 
