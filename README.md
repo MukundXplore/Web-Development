@@ -1,4 +1,4 @@
-![sau-white-logo](media/sau_logo.png)
+![sau-logo](media/sau-logo.png)
 # South Asian University
 
 **Mukund Prasad**
