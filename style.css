@@ -1,0 +1,33 @@
+body {
+    background: white;
+    color: black;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.header {
+    padding: 10px;
+    text-align: center;
+}
+body.dark-mode {
+    background: black;
+    color: white;
+}
+body.dark-mode .col {
+    border-color: #555;
+}
+#toggle-dark-mode {
+    margin: 10px;
+    padding: 5px;
+    cursor: pointer;
+    background-color: black;
+    border: 5px solid goldenrod;
+    border-radius: 5px;
+}
+header {
+    background: linear-gradient(90deg, #95fe02, #2fc0f1);;
+    color: black;
+}
+body.dark-mode header {
+    background: linear-gradient(90deg, #2fc0f1, #95fe02);;
+    color: black;
+}
