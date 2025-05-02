@@ -8,10 +8,10 @@
 </head>
 <body>
     <header style="position: fixed; top: 0; left: 0; width: 100%; z-index: 1000;">
-        <img src="/Project/media/sau_logo.png" alt="Logo" style="height: 66.67px; position: absolute; top: 39px; left: 10px;">
+        <img src="media/sau_logo.png" alt="Logo" style="height: 66.67px; position: absolute; top: 39px; left: 10px;">
         <h2 class="header" style="margin: 0; padding: 10px;"><pre>JavaScript Implementations for
 Web Development</pre></h2>
-        <img id="toggle-dark-mode" src="/Project/media/dark_mode.png" alt="Toggle Dark Mode" style="position: absolute; top: 10px; right: 10px; cursor: pointer;">
+        <img id="toggle-dark-mode" src="media/dark_mode.png" alt="Toggle Dark Mode" style="position: absolute; top: 10px; right: 10px; cursor: pointer;">
     </header>
     <br>
     <br>
@@ -390,14 +390,14 @@ Web Development</pre></h2>
         <div class="row">
             <div class="col" style="height: auto; width: auto;">
                 <p>Light Bulb Toggle Effect</p>
-                <img id="lightbulb" src="/Project/media/lightbulb_off.png" alt="Light Bulb" style="height: 100px; cursor: pointer;" onclick="toggleLight()" class="colourbutton">
+                <img id="lightbulb" src="media/lightbulb_off.png" alt="Light Bulb" style="height: 100px; cursor: pointer;" onclick="toggleLight()" class="colourbutton">
                 <script>
                     function toggleLight() {
                         let lightbulb = document.getElementById("lightbulb");
                         if (lightbulb.src.includes("lightbulb_off.png")) {
-                            lightbulb.src = "/Project/media/lightbulb_on.png";
+                            lightbulb.src = "media/lightbulb_on.png";
                         } else {
-                            lightbulb.src = "/Project/media/lightbulb_off.png";
+                            lightbulb.src = "media/lightbulb_off.png";
                         }
                     }
                 </script>
