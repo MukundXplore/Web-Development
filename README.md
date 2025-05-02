@@ -66,6 +66,7 @@ To examine the individual project implementations, the repository can be accesse
 [JavaScript Implementations for Web Development](http://mukundxplore.github.io/Web-Development)
 
 ## Snapshot
+![JS Implementation](https://github.com/user-attachments/assets/01b7a09b-5ffe-4265-af8a-2c961804218f)
 
 
 ## Conclusion
